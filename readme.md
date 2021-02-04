@@ -10,7 +10,7 @@ ourselves. So let's try recreating a portion of
 
 ## Prerequisites
 
-- HTMl
+- HTML
 - Styling with CSS
 - Layout with either CSS Grid or Flexbox
 
